@@ -1,0 +1,1 @@
+TG_API_TOKEN = "8230988950:AAHYeKdyz4Mxq8_1YanHqosmA-FU6fubNkk"
